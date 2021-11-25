@@ -1,0 +1,7 @@
+tr:nth-child(2n) {
+	background-color: #f1eeea;
+}
+
+table{
+	margin: 0 auto;
+}
